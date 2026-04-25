@@ -127,7 +127,7 @@ Escribir edad
 
 Permiten tomar decisiones.
 
-“Si pasa algo, haz esto; si no, haz otra cosa”
+"Si pasa algo, haz esto; si no, haz otra cosa"
 
 ### Ejemplo en pseudocódigo:
 
