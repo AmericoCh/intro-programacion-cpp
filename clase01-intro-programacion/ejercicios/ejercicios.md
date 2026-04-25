@@ -30,7 +30,7 @@ Escribir un algoritmo que solicite un número y determine si es par o impar.
 
 ## 7. Mayor de dos números
 
-Escribir un algoritmo que pisa 2 números enteros y determine cuál es el mayor
+Escribir un algoritmo que pida 2 números enteros y determine cuál es el mayor
 
 ## 8 Calculadora de IMC (Índice de Masa Corporal)
  
