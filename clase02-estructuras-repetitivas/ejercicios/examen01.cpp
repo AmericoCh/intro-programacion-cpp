@@ -3,14 +3,16 @@
 using namespace std;
 
 /*
-t1 = 1
+t0 = 1
 
-t2 = -x*x/1*2
+t1 = t0 * -x*x/1*2
 
-t3 = t2* (-x*x/2*4)
+t2 = t2* (-x*x/3*4)
+
+t3 = t2 * (-x*x/5*6)
 
 
-tn = t{n-1}* (-x*x/(n)*(2n-2))
+tn = t{n-1}* (-x*x/(2*n-1)*(2n))
 
 */
 
@@ -34,7 +36,7 @@ int main(){
         contador++;
         n++; 
 
-        termino = termino* (-x*x/(n-1)*(2*n-2));
+        termino = termino* (-x*x/(2*n-1)*(2*n-2));
 
     } while(abs(termino) > 0.000001);
 
