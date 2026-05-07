@@ -63,10 +63,9 @@ Escribir el algoritmo para preparar un Sándwich en PSeInt
 
 ### Ejemplo 2:
 
-```id="b4rdq8"
+```
 Escribir un algoritmo que solicite tu nombre y te envie en saludo
 ```
-
 ---
 
 ## 4. Variables
