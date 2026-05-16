@@ -410,7 +410,7 @@ Esto hace que acceder a cualquier elemento sea **O(1)** — instantáneo.
 | Índice inicial | Siempre `0` |
 | Índice final | Siempre `tamaño - 1` |
 | Recorrido | Ciclo `for` con `i < tamaño` |
-| Acceso fuera de rango | Comportamiento indefinido |
+| Acceso fuera de rango | Comportamiento indefinido ☠️☠️☠️☠️ |
 | Inicialización rápida | `int a[3] = {1, 2, 3};` |
 | Buena práctica | Usar `const int TAM` para el tamaño |
 
