@@ -35,8 +35,6 @@ Ingrese 4 números:
 Mínimo: 8
 Máximo: 22
 ```
-text
-
 ---
 
 ## Ejercicio I1
@@ -73,7 +71,7 @@ Arreglo ordenado: 7 10 15 20 25 30
 ```
 ---
 
-## Ejercicio I3 (burbuja nodificado)
+## Ejercicio I3 (burbuja modificado)
 Modifica el Bubble Sort para que **cuente** cuántas comparaciones y cuántos intercambios realiza. Muestra ambos conteos al final. 
 
 **Datos iniciales:** `int datos[5] = {4, 2, 5, 1, 3}`
